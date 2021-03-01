@@ -1,4 +1,4 @@
-Simple ToDo App With React.js v1.0
+Simple ToDo App With React.js
 
 ## Installation
 - Clone the repo in your terminal by clicking the green clone or download button at the top right and copy the url
