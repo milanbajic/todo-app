@@ -1,6 +1,11 @@
 # Simple ToDo App With React.js
 
-## Installation
+#### Required Tools
+- Node.js v14+
+- Code Editor (e.g. Visual Studio Code)
+- Browser (e.g. Mozilla Firefox)
+
+### Installation
 - Clone the repo in your terminal by clicking the green clone or download button at the top right and copy the url
 - In your terminal, type ```git clone URL```
   - replace URL with the url you copied
