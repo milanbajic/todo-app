@@ -1,6 +1,6 @@
 # Simple ToDo App With React.js
 
-#### Required Tools
+### Required Tools
 - Node.js v14+
 - Code Editor (e.g. Visual Studio Code)
 - Browser (e.g. Mozilla Firefox)
